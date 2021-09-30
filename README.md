@@ -135,3 +135,11 @@ Sub Stocks()
     
     Next ws
 End Sub
+
+![2014 VBA](https://user-images.githubusercontent.com/16246354/135545822-f030fbec-5f59-446e-8c47-7d90cb0479d6.png)
+
+
+![2015VBA](https://user-images.githubusercontent.com/16246354/135545794-dfdda1e3-8ee5-4beb-9e35-686d652923fd.png)
+
+![2016VBA](https://user-images.githubusercontent.com/16246354/135545831-90d344d0-3d9f-4cf5-ab38-86e3a6f9ec7c.png)
+
